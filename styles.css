@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Verdana', sans-serif;
+}
+
+.ingredients-title, .directions-title {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.ingredients,
+.directions {
+    text-align: left;
+}
+
+li {
+    padding: 5px;
+}    
+
+.photo_of_recipes {
+    width: 420px;
+}
